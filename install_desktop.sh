@@ -1,5 +1,3 @@
-#!/bin/bash
-
 echo '==== Upgrade system ===='
 sudo apt-get update
 sudo apt-get upgrade -y
